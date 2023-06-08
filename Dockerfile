@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver-arm64:v1.18.6
+FROM k8s.gcr.io/kube-apiserver:v1.18.6
 MAINTAINER Q
